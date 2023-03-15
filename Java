@@ -1,0 +1,9 @@
+We can create a program using Text Editor (Notepad) or IDE (NetBeans)
+
+class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First Java Program.");
+    }
+};
